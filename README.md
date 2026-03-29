@@ -3,9 +3,15 @@
 this is a Orbit(GeoDash) inspired Rock, Paper, Scissors game i made for computer science project
 
 ## Getting Started
+### Prerequisites
+1.  **Visula Studio 2022** (or 2026)
+2.  **.NET Desktop Development**
+3.  **.NET Framework 4.7.2**
+### Installation
 1. Clone the repo: `
-2. Install dependencies:
-3. Run the project:
+2. Install dependencies: there are not as of right now
+3. Open the project: Navigate to the folder ans double-click the .sln (Solution) file to open it in visual studio
+4. Run the project: Press Ctrl + F5 or press the Start Button (the green play button)
 
 ## Usage
 [black]
@@ -24,4 +30,4 @@ this is licensed under the **Polyform Noncommercial License 1.0.0**
 - sell the software or derivative works.
 - use the code for commercial or for-profit purposes.
 
-see the [license] file for full legal text
+see the [license](LICENSE.txt) file for full legal text
