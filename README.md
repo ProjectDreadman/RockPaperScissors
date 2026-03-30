@@ -14,7 +14,7 @@ this is a Orbit(GeoDash) inspired Rock, Paper, Scissors game i made for computer
 4. Run the project: Press Ctrl + F5 or press the Start Button (the green play button)
 
 ## Usage
-[black]
+Can be used for anything aslong as it is not selled for a profit!!!
 
 ## Contributing
 Edits & improvements are welcome, just fork & submit a pull request with all your changes.
