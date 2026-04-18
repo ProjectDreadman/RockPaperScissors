@@ -11,7 +11,7 @@ this is a Orbit(GeoDash) inspired Rock, Paper, Scissors game i made for computer
 1. Clone the repo: `git clone https://github.com/ProjectDreadman/RockPaperScissors.git`
 2. Install dependencies: there are not as of right now
 3. Open the project: Navigate to the folder ans double-click the .sln (Solution) file to open it in visual studio
-4. Run the project: Press Ctrl + F5 or press the Start Button (the green play button)
+4. Run the project: Press the Start Button (the green play button)
 
 ## Usage
 Can be used for anything aslong as it is not selled for a profit!!!
